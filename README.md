@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/cocoapods/p/ElegantPopover.svg" alt="Platform" />
   </a>
   <a href="https://cocoapods.org/pods/ElegantPopover">
-    <img src="https://img.shields.io/cocoapods/v/ElegantPopover.svg?style=flat" alt="Version" />
+    <img src="https://img.shields.io/cocoapods/v/ElegantPopover.svg" alt="Version" />
   </a>
   <a href="https://cocoapods.org/pods/ElegantPopover">
-    <img src="https://img.shields.io/cocoapods/l/ElegantPopover.svg?style=flat" alt="License" />
+    <img src="https://img.shields.io/cocoapods/l/ElegantPopover.svg" alt="License" />
   </a>
 </p>
 
