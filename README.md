@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src="Assets/logo.png" width="700" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/logo.png" width="700" />
 </div>
 
 <p align="center">
@@ -28,8 +28,8 @@ Highly customisable popovers with different shapes, borders, arrow styles and gr
 - [x] Solid and Outlined Arrow.
 
 <div align = "center">
-  <img src="Assets/screen_1.png" height="600" hspace="30"/>
-  <img src="Assets/screen_2.png" height="600" hspace="30"/>
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_1.png" height="600" hspace="30"/>
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_2.png" height="600" hspace="30"/>
 </div>
 
 ## Requirements 
@@ -66,7 +66,7 @@ let popoverController = ElegantPopoverController(contentView: contentView,
 present(popoverController, animated: true)
 ```
 <div align = "center">
-  <img src="Assets/screen_3.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_3.png" width="600" />
 </div>
 
 <br/>
@@ -94,7 +94,7 @@ design.borders = [PSBorder(filling: .layer(gradient), width: 12)]
 ```
 
 <div align = "center">
-  <img src="Assets/screen_4.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_4.png" width="600" />
 </div>
 
 <br/><br/>
@@ -104,7 +104,7 @@ design.borders = [PSBorder(filling: .layer(gradient), width: 12)]
 design.insets = UIEdgeInsets(top: 20, left: 20, bottom: 20, right: 20)
 ```
 <div align = "center">
-  <img src="Assets/screen_5.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_5.png" width="600" />
 </div>
 
 <br/><br/>
@@ -114,7 +114,7 @@ design.insets = UIEdgeInsets(top: 20, left: 20, bottom: 20, right: 20)
 design.cornerRadius = 15
 ```
 <div align = "center">
-  <img src="Assets/screen_6.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_6.png" width="600" />
 </div>
 
 <br/><br/>
@@ -125,7 +125,7 @@ Can be set as `.any` for the popover to figure out appropriate direction on its 
 arrow.direction = .left
 ```
 <div align = "center">
-  <img src="Assets/screen_7.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_7.png" width="600" />
 </div>
 
 <br/><br/>
@@ -136,7 +136,7 @@ arrow.height = 60
 arrow.base = 140
 ```
 <div align = "center">
-  <img src="Assets/screen_8.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_8.png" width="600" />
 </div>
 
 <br/><br/>
@@ -151,7 +151,7 @@ design.borders = [PSBorder(filling: .layer(gradient), width: 12),
                                                        alpha: CGFloat(1.0))), width: 8)]
 ```
 <div align = "center">
-  <img src="Assets/screen_9.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_9.png" width="600" />
 </div>
 
 <br/><br/>
@@ -162,7 +162,7 @@ The index of border required to take the shape of a solid arrow and not outline 
 design.solidArrowBorderIndex = 1
 ```
 <div align = "center">
-  <img src="Assets/screen_10.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_10.png" width="600" />
 </div>
 
 <br/><br/>
@@ -181,7 +181,7 @@ arrow.height = 25
 arrow.base = 45
 ```
 <div align = "center">
-  <img src="Assets/screen_11.png" width="600" />
+  <img src="https://github.com/prasad1120/ElegantPopover/blob/master/Assets/screen_11.png" width="600" />
 </div>
 
 <br/><br/>
