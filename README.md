@@ -19,7 +19,7 @@
 
 # Elegant Popover
 
-Highly customisable popovers with different shapes, borders, arrow styles and gradient in iOS.
+Highly customisable popovers with multiple borders, borders styles (color and gradient) and arrow styles in iOS.
 
 ## Features
 - [x] Border with Color or Gradient (Any layer).
